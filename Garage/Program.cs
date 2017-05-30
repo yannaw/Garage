@@ -34,6 +34,8 @@ namespace Garage {
             seats
             length
             
+
+
             case-sensitive?
             search 
             subclasses
